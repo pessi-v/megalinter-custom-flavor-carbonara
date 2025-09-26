@@ -1,0 +1,6 @@
+# MegaLinter Custom Flavor configuration
+# If you update it manually, run `npx mega-linter-runner --custom-flavor-setup` to propagate updates.
+
+label: Carbonara
+linters:
+  - ACTION_ACTIONLINT
